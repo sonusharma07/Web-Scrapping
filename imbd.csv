@@ -1,0 +1,101 @@
+	No	name	runtime/min	metascore	votes	genre
+0	1.	Rogue One	133 	65        	279945	Action
+1	2.	Sing	108 	59        	42103	Animation
+2	3.	Moana	107 	81        	93413	Animation
+3	4.	Split	117 	62        	85527	Horror
+4	5.	Passengers	116 	41        	151840	Adventure
+5	6.	The Belko Experiment	88 	42        	1818	Action
+6	7.	The Great Wall	103 	42        	32261	Action
+7	8.	Hacksaw Ridge	139 	71        	179706	Biography
+8	9.	Trolls	92 	56        	32990	Animation
+9	10.	Why Him?	111 	39        	28001	Comedy            
+10	11.	Moonlight	111 	99        	114816	Drama            
+11	12.	Assassin's Creed	115 	36        	87794	Action
+12	13.	Arrival	116 	81        	301251	Drama
+13	14.	Fantastic Beasts and Where to Find Them	133 	66        	200599	Adventure
+14	15.	Silence	161 	79        	36661	Adventure
+15	16.	Nocturnal Animals	116 	67        	107449	Drama
+16	17.	Patriots Day	133 	69        	26037	Drama
+17	18.	La La Land	128 	93        	215447	Comedy
+18	19.	Resident Evil: The Final Chapter	106 	49        	31725	Action
+19	20.	X-Men: Apocalypse	144 	52        	261358	Action
+20	21.	Doctor Strange	115 	72        	262490	Action
+21	22.	Hidden Figures	127 	74        	66720	Biography
+22	23.	Lion	118 	69        	74249	Biography
+23	24.	Manchester by the Sea	137 	96        	114714	Drama            
+24	25.	Grave	99 	81        	2032	Drama
+25	26.	Suicide Squad	123 	40        	372201	Action
+26	27.	Office Christmas Party	105 	42        	20856	Comedy            
+27	28.	The Lost City of Z	141 	84        	1442	Action
+28	29.	The Girl on the Train	112 	48        	91669	Crime
+29	30.	Allied	124 	60        	64269	Action
+30	31.	Fences	139 	79        	41368	Drama            
+31	32.	Deadpool	108 	65        	609064	Action
+32	33.	Ghostbusters	116 	60        	142053	Action
+33	34.	Below Her Mouth	94 	NA	580	Drama            
+34	35.	Brimstone	148 	44        	6384	Mystery
+35	36.	Live by Night	129 	49        	20622	Crime
+36	37.	Collateral Beauty	97 	23        	32449	Drama
+37	38.	A United Kingdom	111 	65        	2737	Biography
+38	39.	Underworld: Blood Wars	91 	23        	31983	Action
+39	40.	The Accountant	128 	51        	147905	Action
+40	41.	Pete's Dragon	103 	71        	33074	Adventure
+41	42.	Star Trek Beyond	122 	68        	157077	Action
+42	43.	Miss Sloane	132 	63        	10777	Drama
+43	44.	Zootopia	108 	78        	283200	Animation
+44	45.	Sausage Party	89 	66        	113136	Animation
+45	46.	Fallen	91 	77        	2636	Adventure
+46	47.	The Edge of Seventeen	104 	NA	38860	Comedy
+47	48.	The Sweet Life	90 	51        	35	Comedy
+48	49.	Me Before You	110 	72        	107522	Drama
+49	50.	Captain Fantastic	118 	NA	94572	Comedy
+50	51.	The Nice Guys	116 	70        	165682	Action
+51	52.	The Magnificent Seven	133 	54        	113506	Action
+52	53.	Hell or High Water	102 	88        	105533	Crime
+53	54.	The Jungle Book	106 	77        	191677	Adventure
+54	55.	Ice Age: Collision Course	94 	34        	32575	Animation
+55	56.	Free Fire	90 	66        	1272	Action
+56	57.	A Cure for Wellness	146 	47        	10141	Drama
+57	58.	Captain America: Civil War	147 	75        	398480	Action
+58	59.	Batman v Superman: Dawn of Justice	151 	44        	462912	Action
+59	60.	Mike and Dave Need Wedding Dates	98 	51        	49674	Adventure
+60	61.	Prevenge	88 	71        	683	Comedy
+61	62.	10 Cloverfield Lane	104 	76        	185097	Drama
+62	63.	Jack Reacher: Never Go Back	118 	47        	69949	Action
+63	64.	Miss Peregrine's Home for Peculiar Children	127 	57        	94384	Adventure
+64	65.	The Legend of Tarzan	110 	44        	111744	Action
+65	66.	Deepwater Horizon	107 	68        	80959	Action
+66	67.	Jackie	100 	81        	35448	Biography
+67	68.	Elle	130 	89        	31160	Crime
+68	69.	The Secret Life of Pets	87 	61        	111834	Animation
+69	70.	Pandora	136 	32        	854	Action
+70	71.	Warcraft	123 	42        	181067	Action
+71	72.	Inferno	121 	77        	89952	Action
+72	73.	Personal Shopper	105 	NA	2949	Drama
+73	74.	Colossal	110 	60        	621	Action
+74	75.	Finding Dory	97 	77        	147099	Animation
+75	76.	The Assignment	95 	32        	1364	Action
+76	77.	Everybody Wants Some!!	117 	83        	33870	Comedy            
+77	78.	The Promise	134 	38        	96180	Drama
+78	79.	Neighbors 2: Sorority Rising	92 	58        	72160	Comedy            
+79	80.	20th Century Women	119 	83        	9398	Comedy
+80	81.	Gold	120 	49        	8187	Adventure
+81	82.	Busanhaeng	118 	72        	52198	Action
+82	83.	Masterminds	95 	47        	23363	Action
+83	84.	The Void	90 	82        	359	Horror            
+84	85.	The Thinning	81 	66        	3857	Thriller            
+85	86.	The Love Witch	120 	76        	3277	Comedy
+86	87.	The Founder	115 	34        	17524	Biography
+87	88.	A Monster Calls	108 	NA	31676	Drama
+88	89.	Keeping Up with the Joneses	105 	59        	26627	Action
+89	90.	The Shallows	86 	NA	73523	Drama
+90	91.	Paterson	118 	90        	17094	Comedy
+91	92.	Snowden	134 	58        	72886	Biography
+92	93.	Mean Dreams	108 	64        	503	Thriller            
+93	94.	13 Hours	144 	48        	73806	Action
+94	95.	Forushande	125 	85        	17820	Drama
+95	96.	The Light Between Oceans	133 	60        	24316	Drama
+96	97.	The Huntsman: Winter's War	114 	35        	63933	Action
+97	98.	Gods of Egypt	126 	25        	71012	Action
+98	99.	Don't Breathe	88 	71        	110871	Crime
+99	100.	Split	127 	NA	199	Drama
